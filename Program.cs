@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.Title = "SuperSigner | Made by https://github.com/GabryB03/";
+        Console.Title = "SuperSigner | Made by https://github.com/ZygoteCode/";
 
         if (!Directory.Exists("inputs"))
         {
